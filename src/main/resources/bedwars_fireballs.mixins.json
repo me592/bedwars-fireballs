@@ -1,0 +1,7 @@
+{
+	"required": true,
+	"package": "dev.bwfireballs.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": ["LargeFireballMixin"],
+	"injectors": { "defaultRequire": 1 }
+}
